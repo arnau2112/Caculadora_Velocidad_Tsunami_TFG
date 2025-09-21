@@ -8,13 +8,7 @@ La calculadora de velocidad (1) permite conocer el tiempo que tardará un tsunam
 
 La velocidad del tsunami para cada celda se calcula con la fórmula:
 
-𝑣
-=
-𝑔
-⋅
-𝑑
-v=
-g⋅d
+√(g*d)
 	​
 
 
