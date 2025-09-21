@@ -1,5 +1,7 @@
 El presente repositorio GitHub contiene dos codigos Python:
+
 -Calculadora velocidad tsunami (1)
+
 -Toolbox (2)
 
 La calculadora de velocidad (1) permite saber el tiempo que tardará un tsunami desde las coordenadas insertadas por el usuario, en ETRS89 H29N, hasta la ciudad gaditana. El resultado se presenta en minutos. En suma, el código calcula el tiempo de recorrido del tsunami para cada celda, entre la división entre la distancia de esta y la velocidad en cada tramo. La velocidad del tsunami para cada celda se calcula como:
